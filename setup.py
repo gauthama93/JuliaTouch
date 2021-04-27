@@ -4,21 +4,21 @@
 ### Do not forget to adjust the following variables to your own plugin.
 
 # The plugin's identifier, has to be unique
-plugin_identifier = "JuliaProDualABLTouchUI"
+plugin_identifier = "Julia2018ProDualABLTouchUI"
 
 # The plugin's python package, should be "octoprint_<plugin identifier>", has to be unique
-plugin_package = "octoprint_JuliaProDualABLTouchUI"
+plugin_package = "octoprint_Julia2018ProDualABLTouchUI"
 
 # The plugin's human readable name. Can be overwritten within OctoPrint's internal data via __plugin_name__ in the
 # plugin module
-plugin_name = "Octoprint-JuliaProDualABLTouchUI"
+plugin_name = "Octoprint-Julia2018ProDualABLTouchUI"
 
 # The plugin's version. Can be overwritten within OctoPrint's internal data via __plugin_version__ in the plugin module
 plugin_version = "0.0.15"
 
 # The plugin's description. Can be overwritten within OctoPrint's internal data via __plugin_description__ in the plugin
 # module
-plugin_description = """TouchScreen Plugin for Julia Pro Dual"""
+plugin_description = """TouchScreen Plugin for Julia 2018 Pro Dual"""
 
 # The plugin's author. Can be overwritten within OctoPrint's internal data via __plugin_author__ in the plugin module
 plugin_author = "Vijay Raghav Varada"
@@ -27,7 +27,7 @@ plugin_author = "Vijay Raghav Varada"
 plugin_author_email = "vjvarada@fracktal.in"
 
 # The plugin's homepage URL. Can be overwritten within OctoPrint's internal data via __plugin_url__ in the plugin module
-plugin_url = "https://github.com/gauthama93/JuliaTouchUI2021"
+plugin_url = "https://github.com/gauthama93/JuliaTouch"
 
 # The plugin's license. Can be overwritten within OctoPrint's internal data via __plugin_license__ in the plugin module
 plugin_license = "AGPLv3"
